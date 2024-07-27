@@ -1,0 +1,21 @@
+[
+{"amenity": "Below \u20b15,000"},
+{"amenity": "\u20b15,001 to \u20b110,000"},
+{"amenity": "\u20b110,001 to \u20b120,000"},
+{"amenity": "Above \u20b120,000"},
+{"amenity": "Wifi / Internet"},
+{"amenity": "Aircon"},
+{"amenity": "Refrigerator"},
+{"amenity": "Kitchen"},
+{"amenity": "Parking"},
+{"amenity": "Elevator"},
+{"amenity": "Study Hub"},
+{"amenity": "KTV Room"},
+{"amenity": "Community Area"},
+{"amenity": "Swimming Pool"},
+{"amenity": "Fitness Gym"},
+{"amenity": "Meeting Room"},
+{"amenity": "Commercial Spaces"},
+{"amenity": "Roof Deck"},
+{"amenity": "Recreational Area"}
+]
